@@ -31,8 +31,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-![](https://github.com/wendionwuakpa/flashcards/blob/master/p2.gif)
-![](https://raw.githubusercontent.com/wendionwuakpa/flashcards/blob/master/p2.gif)
+![](https://github.com/wendionwuakpa/flashcards/blob/master/p3.gif)
+![](https://raw.githubusercontent.com/wendionwuakpa/flashcards/blob/master/p3.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Quicktime player and Flixier  
